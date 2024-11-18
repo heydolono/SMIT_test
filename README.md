@@ -8,7 +8,7 @@
 
 ```
 git clone https://github.com/heydolono/SMIT_test.git
-cd SMIT_test
+cd SMIT_test/app
 ```
 
 ### 2. Установка зависимостей
