@@ -8,12 +8,14 @@
 
 ```
 git clone https://github.com/heydolono/SMIT_test.git
-cd SMIT_test
+cd SMIT_test/app
 ```
 
 ### 2. Установка зависимостей
 
 ```
+python -m venv venv
+source venv/Scripts/activate
 pip install -r requirements.txt
 ```
 
@@ -35,7 +37,7 @@ http://127.0.0.1:8000/docs
 ### Загрузка JSON
 Загрузите database.json
 
-### GET rate/calculate-value
+### POST rate/calculate-value
 
 Пример запроса:
 ```
