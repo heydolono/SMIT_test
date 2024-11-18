@@ -27,7 +27,10 @@ docker-compose up --build
 ```
 
 ## API
-
+Документация доступна по 
+```
+http://127.0.0.1:8000/docs
+```
 ### POST rate/load-rate
 ### Загрузка JSON
 Загрузите database.json
