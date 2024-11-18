@@ -15,7 +15,7 @@ cd SMIT_test/app
 
 ```
 python -m venv venv
-source venv/scripts/activate
+source venv/Scripts/activate
 pip install -r requirements.txt
 ```
 
