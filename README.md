@@ -14,6 +14,8 @@ cd SMIT_test/app
 ### 2. Установка зависимостей
 
 ```
+python -m venv venv
+source venv/scripts/activate
 pip install -r requirements.txt
 ```
 
