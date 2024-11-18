@@ -23,7 +23,7 @@ pip install -r requirements.txt
 ### 4. Запуск Docker контейнеров
 
 ```
-docker-compose up --build
+docker-compose up
 ```
 
 ## API
