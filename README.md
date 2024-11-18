@@ -35,7 +35,7 @@ http://127.0.0.1:8000/docs
 ### Загрузка JSON
 Загрузите database.json
 
-### GET rate/calculate-value
+### POST rate/calculate-value
 
 Пример запроса:
 ```
