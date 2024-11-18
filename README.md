@@ -29,7 +29,7 @@ docker-compose up --build
 ## API
 
 ### POST rate/load-rate
-# Загрузка JSON
+### Загрузка JSON
 Загрузите database.json
 
 ### GET rate/calculate-value
